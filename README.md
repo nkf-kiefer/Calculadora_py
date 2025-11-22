@@ -59,7 +59,7 @@
 
 ## 📸 Screenshots
 
-![screenshot main](image.png)
+![screenshot main](images/image.png)
 
 
 ---
